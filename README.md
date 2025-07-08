@@ -16,13 +16,10 @@ Identify correlations or trends that suggest weather-driven mood and comfort inf
 Provide actionable insights that can inform content strategy and marketing efforts.
 
 Data Description
-The project utilises two main data sources:
+The project utilises one main data sources:
 
-Weather Data: Includes daily sunshine hours and other meteorological variables such as temperature, precipitation, and wind speed, covering the period [specify date range].
+Weather Data: Includes daily sunshine hours and other meteorological variables such as temperature, precipitation, and cloud cover, covering the period [1979 to 2020].
 
-Consumer Engagement Data: Contains anonymised metrics related to user interaction, including page views, session duration, click-through rates, and bounce rates.
-
-Both datasets are synchronised by date to enable comparative and regression analyses.
 
 Methodology
 The analysis follows a structured approach:
