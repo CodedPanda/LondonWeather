@@ -9,6 +9,7 @@ To build on this experience and sharpen my analytical skills, I completed a full
 I am now focused on pursuing a role as a data analyst where I can apply this combination of mathematical reasoning, technical skills and business awareness. I am particularly excited about opportunities to work with diverse datasets, identify patterns and trends, and deliver recommendations that support evidence-based decisions. I value collaboration, learning and continuous improvement, and I am keen to contribute to a forward-thinking team where I can grow and make a difference through data.
 
 
+Weather Data Analysis: 
 
 Sunshine Hours and Consumer Engagement Analysis
 Overview
